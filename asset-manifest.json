@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "./static/css/main.72b084c2.css",
+    "main.js": "./static/js/main.db14ea0d.js",
+    "static/media/Polish_20220710_170450092 (1).jpg": "./static/media/Polish_20220710_170450092 (1).014723dd1f2a09bee12b.jpg",
+    "static/media/html-logo.png": "./static/media/html-logo.ff5e134c4ecfaecba2bc.png",
+    "static/media/js-logo.png": "./static/media/js-logo.029db7d4b814c1430763.png",
+    "static/media/css-logo.png": "./static/media/css-logo.71e1a6c5284a6bda3345.png",
+    "static/media/react-logo.png": "./static/media/react-logo.f3e576ba08e6be927148.png",
+    "index.html": "./index.html",
+    "main.72b084c2.css.map": "./static/css/main.72b084c2.css.map",
+    "main.db14ea0d.js.map": "./static/js/main.db14ea0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72b084c2.css",
+    "static/js/main.db14ea0d.js"
+  ]
+}
